@@ -37,6 +37,14 @@ Overall, the controversy over tax loopholes revolves around issues of fairness, 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Investing Simulator](https://github.com/sourceduty/Investing_Simulator)
+<br>
+[Finance Model](https://github.com/sourceduty/Finance_Model)
+<br>
+[Investing Simulator](https://github.com/sourceduty/Investing_Simulator)
+<br>
+[Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
+<br>
+[Stock Market AI](https://github.com/sourceduty/Stock_Market_AI)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
