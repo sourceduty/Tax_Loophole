@@ -11,6 +11,8 @@
 #
 ### Controversial
 
+![Money](https://github.com/user-attachments/assets/b409ca01-dc78-4d64-85ad-8d00f779c5e7)
+
 The controversy surrounding the use of tax loopholes stems from several interrelated issues that provoke public debate and concern.
 
 The perception of unfairness is a major factor. Tax loopholes often disproportionately benefit wealthy individuals and large corporations who have access to sophisticated tax planning resources. This creates a sense of injustice among average taxpayers who do not have the same opportunities to reduce their tax liabilities. When the public sees that the rich can legally minimize their taxes while they cannot, it undermines the perceived fairness of the tax system.
