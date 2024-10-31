@@ -1,4 +1,4 @@
-![Tax Loophole](https://github.com/sourceduty/Tax_Loophole/assets/123030236/7257345c-c80b-4df6-bd01-a50c90e2eced)
+![Banned](https://github.com/user-attachments/assets/dda52cab-bffd-4dea-81ec-8f959726a56e)
 
 > Create business tax optimization strategies and exploit tax law loopholes.
 
@@ -32,6 +32,8 @@ Overall, the controversy over tax loopholes revolves around issues of fairness, 
 #
 
 ![Money](https://github.com/user-attachments/assets/241a06ef-9765-4d2f-aa3c-2d97d7894a22)
+#
+![Tax Loophole](https://github.com/sourceduty/Tax_Loophole/assets/123030236/7257345c-c80b-4df6-bd01-a50c90e2eced)
 
 #
 ### Related Links
