@@ -1,4 +1,5 @@
 ![Banned](https://github.com/user-attachments/assets/dda52cab-bffd-4dea-81ec-8f959726a56e)
+![Feds](https://github.com/user-attachments/assets/3e4cae02-d4e8-4af5-8fc4-79e3e581a7d0)
 
 > Create business tax optimization strategies and exploit tax law loopholes.
 
