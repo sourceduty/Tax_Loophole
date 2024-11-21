@@ -50,6 +50,8 @@ Overall, the controversy over tax loopholes revolves around issues of fairness, 
 [Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
 <br>
 [Stock Market AI](https://github.com/sourceduty/Stock_Market_AI)
+<br>
+[Grey Law](https://github.com/sourceduty/Grey_Law)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
